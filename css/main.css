@@ -285,6 +285,7 @@ nav{
     height: auto;
     padding-top: 1em;
     display: grid;
+     grid-template-columns: repeat(1,auto);
 }
 
 .side1{
