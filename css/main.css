@@ -240,7 +240,7 @@ nav{
         float: right;
         font-size: 190%;
         font-weight: 800;
-        margin-right: 2em;
+        margin-right: 1.1em;
     }
     .button-login {
 
@@ -263,7 +263,7 @@ nav{
     }
 
     .logo{
-        margin-left: 2em;
+        margin-left: 1.1em;
         margin-top: .4em;
     }
    
@@ -309,7 +309,7 @@ nav{
     object-fit: cover;
 }
 .side1 figcaption{
-    padding-left: .4em;
+    padding-left: .3.4em;
 }
 .side2 {
     width: 100%;
