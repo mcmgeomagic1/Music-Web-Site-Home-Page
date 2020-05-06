@@ -240,7 +240,7 @@ nav{
         float: right;
         font-size: 190%;
         font-weight: 800;
-        margin-right: .6em;
+        margin-right: em;
     }
     .button-login {
 
@@ -258,12 +258,12 @@ nav{
     
     }
     .row{
-       width: 380px;
+       width: 398px;
 
     }
 
     .logo{
-        margin-left: .6em;
+        margin-left: em;
         margin-top: .4em;
     }
    
