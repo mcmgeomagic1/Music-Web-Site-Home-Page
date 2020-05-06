@@ -295,9 +295,10 @@ nav{
 }
 .side1 figure{
     margin-top: 1em;
-    width: 24%;
-    height: 24%;
-    margin-right: 0em;
+    width: 28%;
+    height: auto;
+    margin-right: .6em;
+   
    
 }
 .side1 img{
@@ -308,7 +309,6 @@ nav{
 }
 .side1 figcaption{
     padding-left: .5em;
- 
 }
 .side2 {
     width: 100%;
