@@ -296,9 +296,9 @@ nav{
 }
 .side1 figure{
     margin-top: 1em;
-    width: 24.5%;
+    width: 100%;
     height: auto;
-    margin-right: .5em;
+    margin-right: 0em;
    
 }
 .side1 img{
